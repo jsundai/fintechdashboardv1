@@ -1,5 +1,4 @@
 import React from 'react';
-import 'office-ui-fabric-react/dist/css/fabric.css';
 import './App.css';
 import Navigation from './Navigation';
 import CardsSection from './CardsSection';
